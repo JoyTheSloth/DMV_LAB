@@ -1,0 +1,31 @@
+Student Unique ID,University Admission year,Gender,Age,H.S.C passing year,Program,Current Semester,Do you have meritorious scholarship ?,Do you use University transportation?,How many hour do you study daily?,How many times do you seat for study in a day?,What is your preferable learning mode?,Do you use smart phone?,Do you have personal Computer?,How many hour do you spent daily in social media?,Status of your English language proficiency,Average attendance on class,Did you ever fall in probation?,What are the skills do you have ?,How many hour do you spent daily on your skill development?,What is you interested area?,What is your relationship status?,Are you engaged with any co-curriculum activities?,With whom you are living with?,Do you have any health issues?,What was your previous SGPA?,Do you have any physical disabilities?,What is your current CGPA?,How many Credit did you have completed?,What is your monthly family income?
+18124,2018,Male,24,2016,BCSE,12,Yes,No,3,2,Offline,Yes,Yes,5,Intermediate,90,No,Software Development,2,Data Schince,Single,Yes,Bachelor,No,2.68,No,3.15,75,25000
+21239,2021,Male,22,2020,BCSE,4,Yes,Yes,3,2,Online,Yes,Yes,3,Basic,96,Yes,Web development,2,Event management,Single,Yes,Family,No,2.68,No,3.15,36,100000
+20987,2020,Female,21,2019,BCSE,5,No,No,3,3,Offline,Yes,Yes,3,Intermediate,80,No,Programming,1,Software,Single,No,Bachelor,No,2.68,No,3.15,50,50000
+21456,2021,Male,20,2020,BCSE,4,Yes,No,1,3,Offline,Yes,Yes,2,Intermediate,88,No,Programming,1,Artificial Intelligence,Single,No,Bachelor,Yes,2.68,No,3.15,36,62488
+21783,2021,Male,22,2019,BCSE,4,Yes,No,3,1,Online,Yes,Yes,2,Intermediate,80,No,Programming,1,Software,Relationship,No,Bachelor,Yes,2.68,No,3.15,36,50000
+21321,2021,Male,20,2020,BCSE,4,Yes,Yes,2,2,Offline,Yes,Yes,1,Intermediate,95,No,Web development,2,Software,Single,Yes,Family,No,2.68,No,3.15,36,30000
+21890,2021,Male,22,2018,BCSE,4,Yes,No,2,4,Online,Yes,Yes,2,Intermediate,80,No,Web development,6,Software,Single,No,Bachelor,Yes,2.68,No,3.15,36,20000
+21654,2021,Female,22,2019,BCSE,4,Yes,No,2,2,Offline,Yes,Yes,2,Basic,100,Yes,Web development,1,NETWORKING,Single,No,Bachelor,No,3.8,No,3.64,35,32500
+21976,2021,Male,20,2020,BCSE,4,Yes,No,3,2,Offline,Yes,Yes,2,Intermediate,90,No,Programming,3,Software,Single,No,Bachelor,No,2.68,No,3.15,36,20000
+21135,2021,Female,22,2020,BCSE,4,Yes,Yes,5,2,Offline,Yes,Yes,2,Intermediate,100,No,Programming,1,Artificial Intelligence,Single,No,Family,No,2.68,No,3.15,36,25000
+21567,2021,Male,22,2019,BCSE,4,Yes,Yes,3,2,Online,Yes,Yes,3,Intermediate,90,No,Programming,1,Software,Single,Yes,Family,No,2.68,No,3.15,36,50000
+21204,2021,Male,22,2019,BCSE,4,No,No,3,2,Offline,Yes,Yes,2,Basic,90,No,Programming,2,Software,Single,No,Bachelor,Yes,3.4,No,3.53,35,20000
+21719,2021,Female,22,2020,BCSE,4,No,Yes,1,1,Offline,Yes,Yes,1,Basic,100,No,Programming,2,Software,Single,No,Family,No,2.68,No,3.15,36,50000
+21388,2021,Female,21,2019,BCSE,4,Yes,No,3,2,Offline,Yes,Yes,1,Intermediate,90,No,Programming,1,Software,Single,No,Bachelor,No,2.68,No,3.15,36,24000
+21672,2021,Female,21,2018,BCSE,4,No,Yes,2,2,Offline,Yes,Yes,1,Basic,97,No,Programming,2,Software,Single,No,Family,No,2.68,No,3.15,36,70000
+21493,2021,Male,20,2020,BCSE,4,Yes,Yes,2,1,Offline,Yes,Yes,1,Basic,95,No,Programming,3,Software,Single,Yes,Family,No,3.93,No,3.89,35,30000
+21811,2021,Male,22,2019,BCSE,4,Yes,Yes,5,3,Online,Yes,Yes,1,Intermediate,95,No,Programming,2,Machine Learning,Single,Yes,Family,No,2.68,No,3.15,36,40000
+21176,2021,Female,21,2020,BCSE,4,Yes,No,5,1,Offline,Yes,Yes,2,Basic,97,No,Programming,2,Software,Single,No,Family,No,2.68,No,3.15,36,50000
+21902,2021,Male,21,2020,BCSE,4,Yes,No,1,2,Online,Yes,Yes,3,Advance,70,No,Programming,2,Software,Relationship,No,Family,No,3.1,No,3.5,35,62488
+21347,2021,Male,19,2020,BCSE,4,No,Yes,3,2,Online,Yes,Yes,2,Intermediate,70,Yes,Web development,2,Software,Single,No,Family,No,2.68,No,3.15,36,20000
+21758,2021,Female,21,2019,BCSE,4,Yes,No,3,2,Offline,Yes,Yes,2,Intermediate,96,No,Web development,1,Web development,Single,Yes,Bachelor,No,3.81,No,3.65,34,30000
+21265,2021,Male,21,2020,BCSE,4,Yes,No,3,3,Offline,Yes,Yes,2,Intermediate,80,Yes,Networking,2,NETWORKING,Single,No,Bachelor,No,2.68,No,3.15,36,50000
+21639,2021,Male,22,2020,BCSE,4,Yes,No,2,1,Offline,Yes,Yes,2,Intermediate,98,No,Web development,2,Software,Single,Yes,Bachelor,No,2.68,No,3.15,36,20000
+20814,2020,Female,21,2019,BCSE,4,No,Yes,6,3,Offline,Yes,Yes,3,Intermediate,95,No,Programming,3,Software,Single,Yes,Family,No,2.68,No,3.15,36,25000
+21428,2021,Male,21,2020,BCSE,4,Yes,Yes,1,1,Online,Yes,Yes,1,Advance,85,No,Content creation,2,Machine Learning,Single,Yes,Bachelor,Yes,3.89,No,3.81,35,35000
+21863,2021,Female,20,2020,BCSE,4,No,No,3,2,Offline,Yes,Yes,1,Basic,97,No,Programming,2,Software,Single,No,Family,No,3.79,No,3.82,39,50000
+21192,2021,Male,20,2020,BCSE,4,No,No,4,3,Offline,Yes,No,3,Basic,95,No,Programming,2,Software,Single,Yes,Bachelor,No,2.68,No,3.15,36,4000
+21504,2021,Male,19,2020,BCSE,4,Yes,Yes,2,1,Online,Yes,Yes,4,Intermediate,70,Yes,Programming,4,Artificial Intelligence,Single,Yes,Family,Yes,3.55,No,3.48,35,40000
+21727,2021,Male,21,2020,BCSE,4,Yes,Yes,2,1,Online,Yes,Yes,2,Intermediate,95,No,Web development,2,Software,Single,Yes,Bachelor,Yes,3.28,No,3.32,36,8000
+21356,2021,Male,25,2020,BCSE,4,Yes,No,3,3,Offline,Yes,Yes,2,Intermediate,100,No,Programming,3,Software,Single,Yes,Bachelor,No,2.68,No,3.15,36,47972
